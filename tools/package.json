@@ -8,6 +8,6 @@
     "gen-dex": "node gen-dex.mjs"
   },
   "dependencies": {
-    "@pkmn/dex": "^0.10.11"
+    "@pkmn/dex": "^0.10.12"
   }
 }
